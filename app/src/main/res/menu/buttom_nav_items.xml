@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home_black_36dp"
+        android:title="@string/nav_home" />
+    <item
+        android:id="@+id/nav_notification"
+        android:icon="@drawable/notifications_active_black_36dp"
+        android:title="@string/nav_notification" />
+    <item
+        android:id="@+id/nav_add_new_address"
+        android:icon="@drawable/add_circle_black_36dp"
+        android:title="@string/nav_add" />
+    <item
+        android:id="@+id/nav_address_list"
+        android:icon="@drawable/storage_black_36dp"
+        android:title="@string/nav_address_list" />
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/person_black_36dp"
+        android:title="@string/nav_account" />
+</menu>
